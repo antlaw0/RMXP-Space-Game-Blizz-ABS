@@ -1,0 +1,7 @@
+How use actor attributes in script, used to set inventory size to player's strength
+http://www.gdunlimited.net/forums/topic/10299-script-to-compare-actors-statsparameters-for-a-challenge-system/
+How use variables in scripts:
+$game_variables[x]
+Website showed me how event footstep sounds:
+https://www.reddit.com/r/RPGMaker/comments/2gct7v/how_do_i_make_a_stepping_sound_every_time_a/
+Now fully implemented in game

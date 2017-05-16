@@ -1,0 +1,312 @@
+[WEAPONS]
+Rusty Iron Dagger
+Iron Dagger
+Fine Iron Dagger
+Rusty Steel Dagger
+Steel Dagger
+Fine Steel Dagger
+Rusty Iron Sword
+Iron Sword
+Fine Iron Sword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rusty Iron Battleaxe
+Iron Battleaxe
+Fine Iron Battleaxe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crude Cedar Shortbow
+Cedar Shortbow
+Fine Cedar Shortbow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Novice Staff
+Apprentice Staff
+
+
+
+
+
+
+
+
+
+[ARMORS]
+Tattered Leather Armor
+Leather Armor
+Fine Leather Armor
+Tattered Leather Helmet
+Leather Helmet
+Fine Leather Helmet
+Rusty Studded Leather Armor
+Studded Leather Armor
+Fine Studded Leather Armor
+
+
+
+
+
+
+
+
+
+
+Rusty Iron Armor
+Iron Armor
+Fine Iron Armor
+Rusty Iron Helmet
+Iron Helmet
+Fine Iron Helmet
+Rusty Iron Shield
+Iron Shield
+Fine Iron Shield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robes
+
+
+
+
+
+
+
+
+
+
+[ITEMS]
+Minor Healing Potion
+Minor Energy Potion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooked Chicken
+Raw Chicken
+Potato
+Carrot
+Corn
+Bread
+Wheat
+
+
+Leather
+Iron Ore
+Coal
+Iron Ingot
+Steel Ingot
+Strength Rune
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[STATES]
+Knockout
+Stun
+Venom
+Dazzle
+Mute
+Confuse
+Sleep
+Paralyze
+Weaken
+Clumsy
+Delay
+Feeble
+Energy Shield
+Protective Shield
+Resist
+Blink
+Close Range
+Short Range
+Medium Range
+Long Range
+Very Long Range
+Shield Wall
+Berserk
+Agile Reflexes
+Eagle-Eye
+Focus
+Counter
+Bleed
+
+Spikes
+[ELEMENTS]
+Fire
+Ice
+Thunder
+Water
+Earth
+Wind
+Light
+Darkness
+vs Undead
+vs Snake
+vs Aquatic
+vs Beast
+vs Goblin
+vs Bird
+vs Devil
+Move
+handgun
+automatic
+shotgun
+sniper
+Thrown
+Medic
+Engineer
+Commander
+
+[GOLD]
+Gold
