@@ -1,104 +1,9 @@
 [WEAPONS]
-Rusty Iron Dagger
-Iron Dagger
-Fine Iron Dagger
-Rusty Steel Dagger
-Steel Dagger
-Fine Steel Dagger
-Rusty Iron Sword
-Iron Sword
-Fine Iron Sword
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Rusty Iron Battleaxe
-Iron Battleaxe
-Fine Iron Battleaxe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Crude Cedar Shortbow
-Cedar Shortbow
-Fine Cedar Shortbow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Novice Staff
-Apprentice Staff
-
-
-
-
-
-
-
-
-
+Combat Knife
+Steel Sword
+Laser Pistol
+Laser Rifle
+Laser Shotgun
 [ARMORS]
 Tattered Leather Armor
 Leather Armor
@@ -114,9 +19,9 @@ Fine Studded Leather Armor
 
 
 
-
-
-
+Rusty Iron Chainmail
+Iron Chainmail
+Fine Iron Chainmail
 
 
 Rusty Iron Armor
@@ -190,19 +95,25 @@ Fine Iron Shield
 
 
 Robes
+Apprentace Hood
 
 
 
 
-
-
-
-
-
+Ring of Minor Strength
+Ring of Minor Dextarity
+Ring of Minor Agility
+Ring of Minor Intelligence
 
 [ITEMS]
 Minor Healing Potion
 Minor Energy Potion
+Energy Cell
+Phoenix Tear
+Cheat Item
+Minor Rejuvination Potion
+Quest Item
+Log
 
 
 
@@ -210,16 +121,10 @@ Minor Energy Potion
 
 
 
-
-
-
-
-
-
-
-
-
-
+Old Fishing Rod
+Fishing Bait
+Raw Fish
+Cooked Fish
 Cooked Chicken
 Raw Chicken
 Potato
@@ -227,7 +132,7 @@ Carrot
 Corn
 Bread
 Wheat
-
+Ale
 
 Leather
 Iron Ore
@@ -282,6 +187,11 @@ Counter
 Bleed
 
 Spikes
+Offensive Stance
+Defensive Stance
+dagger category
+sword category
+Stealthed
 [ELEMENTS]
 Fire
 Ice
@@ -298,11 +208,11 @@ vs Beast
 vs Goblin
 vs Bird
 vs Devil
-Move
-handgun
-automatic
-shotgun
-sniper
+2handed
+Sword
+Bow
+Crossbow
+Dagger
 Thrown
 Medic
 Engineer
