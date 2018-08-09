@@ -1,3 +1,6 @@
+Order of Blizzard's script:
+https://forum.chaos-project.com/index.php/topic,23.0.html
+
 How use actor attributes in script, used to set inventory size to player's strength
 http://www.gdunlimited.net/forums/topic/10299-script-to-compare-actors-statsparameters-for-a-challenge-system/
 How use variables in scripts:
