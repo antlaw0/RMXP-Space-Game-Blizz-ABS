@@ -4,35 +4,218 @@ Steel Sword
 Laser Pistol
 Laser Rifle
 Laser Shotgun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Laser Cannon
+
+
+
+
+
 [ARMORS]
-Tattered Leather Armor
-Leather Armor
-Fine Leather Armor
-Tattered Leather Helmet
-Leather Helmet
-Fine Leather Helmet
-Rusty Studded Leather Armor
-Studded Leather Armor
-Fine Studded Leather Armor
+Uniform
+Combat Helmet
+Combat Shield
+Combat armor
 
 
 
 
 
-Rusty Iron Chainmail
-Iron Chainmail
-Fine Iron Chainmail
 
 
-Rusty Iron Armor
-Iron Armor
-Fine Iron Armor
-Rusty Iron Helmet
-Iron Helmet
-Fine Iron Helmet
-Rusty Iron Shield
-Iron Shield
-Fine Iron Shield
 
 
 
@@ -94,38 +277,160 @@ Fine Iron Shield
 
 
 
-Robes
-Apprentace Hood
 
 
 
 
-Ring of Minor Strength
-Ring of Minor Dextarity
-Ring of Minor Agility
-Ring of Minor Intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tritanium Armor
+Standard Sensor Array
+Ion Engines
+
+
 
 [ITEMS]
-Minor Healing Potion
-Minor Energy Potion
+First Aid Kit
+Rejuvenation kit
 Energy Cell
-Phoenix Tear
+Revive kit
 Cheat Item
-Minor Rejuvination Potion
+Trash
 Quest Item
-Log
+Grenade
+Holy Hand Grenade
 
 
 
 
 
 
+Scout
+Cruiser
+Dreadnaught
 
-Old Fishing Rod
-Fishing Bait
-Raw Fish
-Cooked Fish
-Cooked Chicken
+
 Raw Chicken
 Potato
 Carrot
@@ -153,6 +458,161 @@ Strength Rune
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neural dampener
+Inertial compensator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torpedo
+Repair Kit
+Battery
 
 
 
@@ -208,15 +668,15 @@ vs Beast
 vs Goblin
 vs Bird
 vs Devil
-2handed
-Sword
-Bow
-Crossbow
+Pistol
 Dagger
-Thrown
+sword
+rifle
+shotgun
+launcher
 Medic
 Engineer
 Commander
 
 [GOLD]
-Gold
+Credits
