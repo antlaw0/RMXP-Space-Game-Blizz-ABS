@@ -1,0 +1,2 @@
+S.T.A.R Squad Field Manual
+This manual serves as a reference to effective usage of your squad. A squad consists of a maximum of four squad members. The squad member at the top of the order is designated the squad leader. They are responsible for issuing orders to the rest of the squad as well as interacting with the environment. The squad leader can be changed at any time by pressing the CHANGE LEADER button.
